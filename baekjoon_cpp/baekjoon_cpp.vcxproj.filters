@@ -294,5 +294,8 @@
     <ClCompile Include="..\..\..\..\Desktop\새 폴더 (2)\cpp\25709_fail.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="7682.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
