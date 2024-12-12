@@ -34,4 +34,8 @@
 #other
 .vs/
 *.opendb
+*.ilk
+*.log
+*.tlog
+*.enc
 
